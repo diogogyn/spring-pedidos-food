@@ -1,4 +1,4 @@
-package com.dos.pagamentos.config;
+package br.dos.pedidos.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;
